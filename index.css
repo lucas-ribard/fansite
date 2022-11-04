@@ -129,7 +129,11 @@ footer{
     background: black;
 }
 
-#Gallerie{
+#Contact{
+    text-align: center;
+}
+
+#colonne{
     
     color:white;
     font-size: large;
@@ -142,4 +146,12 @@ footer{
     padding: 3% 10% 10%;
     display: flex;
     flex-direction: column;
+}
+
+.analyse{
+    display: flex;
+    flex-direction: row;
+    padding: 30px 10px 10px;
+    background-color: black;
+    -webkit-box-shadow: 0 0 20px 7px #ff00ea, 0 0 30px 10px #00eeff;
 }
